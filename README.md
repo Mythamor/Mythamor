@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently a certified data scientist in Python, skilled in data analysis, artificial intelligece & machine learning.
+- 🔭 I’m currently a certified data scientist in Python. 
+      I'm skilled in data analysis, artificial intelligece & machine learning.
 - 🌱 I’m currently learning software engineering at ALX-Holberton
 
 
