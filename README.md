@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently a certified data scientist in Python, skilled in data analysis, artificial intelligece & machine learning.
+- 🌱 I’m currently learning software engineering at ALX-Holberton
+
 
 <!--
 **Mythamor/Mythamor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
