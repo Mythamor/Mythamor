@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently a certified data scientist in Python. 
-      Skilled in data analysis, artificial intelligece & machine learning.
-- 🌱 I’m currently learning software engineering at ALX-Holberton
+- 🔭 I’m a certified data scientist in Python from Moringa x Flatiron. 
+     Highly Skilled in data analysis, artificial intelligece & machine learning.
+- 🌱 I’m currently pursuing software engineering at ALX-Holberton to improve my Python coding skills and run end-to-end data models.
 
 
 <!--
