@@ -1,8 +1,15 @@
 ### Hi there 👋
-- 🔭 I’m a certified data scientist in Python from Moringa x Flatiron. 
-     Highly Skilled in data analysis, artificial intelligence & machine learning.
+- ✨ _My name is Mithamo Beth_ ✨
+- 🔭 I’m a certified Data Scientist and Machine Learning Engineer in Python from Moringa x Flatiron. 
+     Highly Skilled in data analytics, machine learning & artificial intelligence.
 - 🌱 I’m currently pursuing software engineering at ALX x Holberton to improve my Python coding skills and execute end-to-end data projects.
-
+> Technical Skills
+- Languages
+  *  **Python, C, HTML, CSS, JavaScript, TypeScript, NodeJS, ReactJS, SQL**
+- Data Analytics, Data Science, Machine Learning
+  *  **Scikit-Learn, Spark, Tensorflow, Keras, Scipy**
+- Databases
+  *  **MySQL, Redis**
 
 <!--
 **Mythamor/Mythamor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
