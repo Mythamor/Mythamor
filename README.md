@@ -4,11 +4,11 @@
      Highly Skilled in Data analytics, machine learning & artificial intelligence.
 - 🌱 I’m currently pursuing software engineering at ALX x Holberton to improve my technical skills and execute end-to-end data projects.
 ### Technical Skills
-## Languages
+> Languages
   *  **Python, Django, Flask, C, HTML, CSS, Bootstrap, JavaScript, TypeScript, NodeJS, ReactJS, SQL**
-## Data Analytics, Data Science, Machine Learning
+> Data Analytics, Data Science, Machine Learning
   *  **Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Spark, Tensorflow, Keras, Scipy, Statsmodel**
-## Databases
+> Databases
   *  **MySQL, MongoDB, Redis**
 
 <!--
