@@ -9,7 +9,7 @@
 > Data Analytics, Data Science, Machine Learning
   *  **Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Spark, Tensorflow, Keras, Scipy, Statsmodel**
 > Databases
-  *  **MySQL, MongoDB, Redis**
+  *  **MySQL, MongoDB, Redis, PostgreSQL**
 
 <!--
 **Mythamor/Mythamor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
