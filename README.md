@@ -1,4 +1,5 @@
-## ✨ Hey!👋  Welcome to Mithamo Beth's Tech Haven ✨ 
+## Hey!👋  
+## ✨ Welcome to Mithamo Beth's Tech Haven ✨ 
 
 - 🔭 Certified Data Scientist and Machine Learning Engineer in Python from Moringa x Flatiron. 
      Highly Skilled in Data analytics, machine learning & artificial intelligence. I have built numerous supervised and unsupervised models. 
