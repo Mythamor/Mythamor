@@ -1,13 +1,21 @@
-### Hi there 👋
-- ✨ _My name is Mithamo Beth_ ✨
-- 🔭 I’m a certified Data Scientist and Machine Learning Engineer in Python from Moringa x Flatiron. 
-     Highly Skilled in Data analytics, machine learning & artificial intelligence.
-- 🌱 I’m currently pursuing software engineering at ALX x Holberton to improve my technical skills and execute end-to-end data projects.
+## ✨ Hey!👋  Welcome to Mithamo Beth's Tech Haven ✨ 
+
+- 🔭 Certified Data Scientist and Machine Learning Engineer in Python from Moringa x Flatiron. 
+     Highly Skilled in Data analytics, machine learning & artificial intelligence. I have built numerous supervised and unsupervised models. 
+- 🌱 Certified Software Engineer from ALX x Holberton.
+- I use my knowledge in code and data to improve products and user experience
+  
 ### Technical Skills
-> Languages
-  *  **Python, Django, Flask, C, HTML, CSS, Bootstrap, JavaScript, TypeScript, NodeJS, ReactJS, SQL**
+> Tech Stack
+  *  **Languages: Python, JavaScript, C, SQL**
+  *  **Back-end: Python, Django, Flask, C, TypeScript, NodeJS, ExpressJS**
+  *  **Front-end: HTML, CSS, Bootstrap, ReactJS, JQuery**
+    
 > Data Analytics, Data Science, Machine Learning
-  *  **Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Spark, Tensorflow, Keras, Scipy, Statsmodel**
+  *  **Visualization: Matplotlib, Seaborn**
+  *  **Data Analysis & Exploration: Pandas, Numpy, Scipy, Statsmodel**
+  *  **Modeling: Scikit-Learn, Spark, Tensorflow, Keras, Scipy, Statsmodel**
+    
 > Databases
   *  **MySQL, MongoDB, Redis, PostgreSQL**
 
