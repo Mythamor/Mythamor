@@ -1,7 +1,3 @@
-Here's a striking and polished version of your GitHub intro page based on your background and skills:
-
----
-
 # Hey! 👋 Welcome to Beth Mithamo's Tech Haven 🚀
 
 I'm **Beth Mithamo**, a **Certified Software Engineer, Data Scientist, and AI/ML Engineer** passionate about building impactful tech solutions. With a strong background in **Data Science**, **Software Engineering**, and **Product Development**, I use my technical expertise to solve real-world problems and enhance product experiences.
