@@ -4,18 +4,18 @@
 - 🔭 Certified Data Scientist and Machine Learning Engineer in Python from Moringa x Flatiron. 
      Highly Skilled in Data analytics, machine learning & artificial intelligence. I have built numerous supervised and unsupervised models. 
 - 🌱 Certified Software Engineer from ALX x Holberton.
-- I use my knowledge in code and data to improve products and user experience
+- I use my knowledge of code and data to improve products and user experience
   
 ### Technical Skills
 > Tech Stack
-  *  **Languages: Python, JavaScript, C, SQL**
-  *  **Back-end: Python, Django, Flask, C, TypeScript, NodeJS, ExpressJS**
+  *  **Languages: C, Python, JavaScript, NodeJS, SQL**
+  *  **Frameworks: Django, Flask, FastApi, TypeScript, ExpressJS**
   *  **Front-end: HTML, CSS, Bootstrap, ReactJS, JQuery**
     
 > Data Analytics, Data Science, Machine Learning
   *  **Visualization: Matplotlib, Seaborn**
   *  **Data Analysis & Exploration: Pandas, Numpy, Scipy, Statsmodel**
-  *  **Modeling: Scikit-Learn, Spark, Tensorflow, Keras, Scipy, Statsmodel**
+  *  **Modeling: Scikit-Learn, PySpark, Tensorflow, Keras, Scipy, Statsmodel**
     
 > Databases
   *  **MySQL, MongoDB, Redis, PostgreSQL**
